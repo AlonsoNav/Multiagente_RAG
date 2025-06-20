@@ -1,0 +1,45 @@
+Q: ¿Cómo solucionar problemas de conexión a Internet?
+A: Reinicia tu router, revisa los cables y asegúrate de que el proveedor no tenga caídas.
+
+Q: ¿Qué hacer si el monitor no muestra imagen?
+A: Verifica que el cable HDMI esté conectado correctamente y que el monitor esté encendido.
+
+Q: ¿Cómo reiniciar mi router?
+A: Desconecte el router de la corriente por 10 segundos y vuelva a conectarlo.
+
+Q: ¿Qué hacer si no tengo conexión a Internet?
+A: Verifique que el cable esté bien conectado o reinicie el router.
+
+Q: ¿Cómo abrir el administrador de tareas en Windows?
+A: Presione Ctrl + Shift + Esc o clic derecho en la barra inferior y seleccione "Administrador de tareas".
+
+Q: ¿Qué hago si mi computadora está muy lenta?
+A: Cierra programas que no estés usando, revisa el uso de CPU en el administrador de tareas y considera reiniciar.
+
+Q: ¿Cómo solucionar problemas con el audio?
+A: Asegúrate de que los altavoces estén conectados, el volumen no esté silenciado y selecciona el dispositivo correcto desde la configuración de sonido.
+
+Q: ¿Qué hacer si no puedo imprimir?
+A: Verifica que la impresora esté encendida y conectada correctamente, y que no haya trabajos atascados en la cola de impresión.
+
+Q: ¿Cómo instalar una impresora?
+A: Ve a Configuración > Dispositivos > Impresoras y escáneres, haz clic en “Agregar una impresora” y sigue las instrucciones.
+
+Q: ¿Qué hacer si el teclado no responde?
+A: Revisa si está conectado correctamente, prueba con otro puerto USB o reinicia la computadora.
+
+Q: ¿Cómo solucionar problemas de pantalla azul?
+A: Asegúrate de que tus drivers estén actualizados, revisa el hardware recientemente conectado y busca el código de error en línea.
+
+Q: ¿Cómo activar el modo seguro en Windows?
+A: Reinicia el equipo, presiona F8 repetidamente antes de que cargue Windows y selecciona “Modo seguro” en las opciones.
+
+Q: ¿Qué hago si el sistema se congela?
+A: Espera unos segundos, intenta abrir el administrador de tareas (Ctrl + Shift + Esc) y finaliza el proceso que no responde.
+
+Q: ¿Cómo actualizar Windows?
+A: Ve a Configuración > Actualización y seguridad > Windows Update, y haz clic en “Buscar actualizaciones”.
+
+Q: ¿Qué hacer si no tengo sonido en las videollamadas?
+A: Verifica que el micrófono y altavoces estén configurados correctamente en la app, y revisa los permisos del navegador o sistema.
+
