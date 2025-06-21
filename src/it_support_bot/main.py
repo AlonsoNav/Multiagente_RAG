@@ -1,7 +1,5 @@
-from it_support_bot.rag.vector_store import ask_question
+from it_support_bot.agents.user_agent import UserAgent
 
 if __name__ == "__main__":
-    pregunta = input("Haz tu pregunta técnica: ")
-    respuesta = ask_question(pregunta)
-    print("\nRespuesta del sistema:")
-    print(respuesta)
+    user_agent = UserAgent()
+    user_agent.start()
