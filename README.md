@@ -136,11 +136,11 @@ flowchart TD
 
 4. **Ejecuta el sistema:**
    ```sh
-   poetry run python src/it_support_bot/main.py
+   $env:PYTHONPATH="src"; poetry run python -m it_support_bot.main 
    ```
 
 ---
 
 ## Repositorio
 
-[https://github.com/tu-usuario/it-support-multiagent-bot](https://github.com/tu-usuario/it-support-multiagent-bot)
+[https://github.com/AlonsoNav/Multiagente_RAG](https://github.com/AlonsoNav/Multiagente_RAG)
